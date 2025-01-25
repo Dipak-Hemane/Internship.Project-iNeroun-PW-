@@ -84,7 +84,7 @@ Ensure your system meets these requirements:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/ChinmayKaitade/Book-Finder-Application-iNeuron
+get git repo gh repo clone Dipak-Hemane/Internship.Project-iNeroun-PW-
 cd Book-Finder-Application-iNeuron
 ```
 
@@ -143,19 +143,7 @@ We Welcome Contributions! We are grateful for the valuable contributions from ou
 
 ---
 
-## ⭐ Stargazers
 
-🌟 Thank you for starring our project! Your support means a lot and helps us continue improving." Feel free to adjust it to match your tone and style!
-
-[![Stargazers for @ChinmayKaitade/Book-Finder-Application-iNeuron](https://reporoster.com/stars/ChinmayKaitade/Book-Finder-Application-iNeuron)](https://github.com/ChinmayKaitade/Book-Finder-Application-iNeuron/stargazers)
-
-## 🔧 Forkers
-
-🍴 Thank you for forking our project! Your interest and contributions help us grow and improve. We appreciate your support!
-
-[![Forkers repo roster for @ChinmayKaitade/Book-Finder-Application-iNeuron](https://reporoster.com/forks/ChinmayKaitade/Book-Finder-Application-iNeuron)](https://github.com/ChinmayKaitade/Book-Finder-Application-iNeuron/network/members)
-
----
 
 ## 📜 License
 
@@ -177,6 +165,4 @@ We Welcome Contributions! We are grateful for the valuable contributions from ou
 <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 <a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://twitter.com/your-username" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
