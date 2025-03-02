@@ -47,11 +47,11 @@ This **Code of Conduct applies to all community spaces** (online & offline), inc
 ## 🛠️ **Reporting Issues**
 
 If you encounter unacceptable behavior, please report it via:  
-📧 [chinmaykaitade123@gmail.com](mailto:chinmaykaitade123@gmail.com)  
+📧 [dipakhemane123@gmail.com](mailto:dipakhemane123@gmail.com)  
 🔒 All reports will be handled **confidentially**, with appropriate actions taken.
 
 You can also raise an issue on our GitHub repository:  
-[📂 Report an Issue](https://github.com/ChinmayKaitade/Book-Finder-Application-iNeuron/issues).
+[📂 Report an Issue](https://github.com/Dipak-Hemane/Internship.Project-iNeroun-PW-.git).
 
 ---
 
