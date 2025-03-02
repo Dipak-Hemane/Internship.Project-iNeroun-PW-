@@ -35,7 +35,7 @@ Open a new issue and write the following:
 
 **Example:**
 ```
-@all-contributors please add @ChinmayKaitade for code
+@all-contributors please add @dipakhemane for code
 ```
 
 Replace `<your-username>` with your GitHub username and `<contribution-type>` with the type of contribution (e.g., `code`, `design`, `bug`, `docs`, etc.).
@@ -121,7 +121,7 @@ By contributing, you agree to follow our [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 If you have any questions, feedback, or need help, feel free to reach out:
 
-- **Email**: [chinmaykaitade123@gmail.com](mailto:chinmaykaitade123@gmail.com)
-- **GitHub Issues**: [Book-Finder-Application-iNeuron Issues](https://github.com/ChinmayKaitade/Book-Finder-Application-iNeuron/issues)
+- **Email**: [dipakhemane123@gmail.com](mailto:dipakhemane123@gmail.com)
+- **GitHub Issues**: [Book-Finder-Application-iNeuron Issues](https://github.com/Dipak-Hemane/Internship.Project-iNeroun-PW-.git/issues)
 
 
